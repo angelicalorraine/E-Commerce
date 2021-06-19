@@ -17,7 +17,7 @@ Configure a working Express.js API to use Sequelize to interact with a MySQL dat
 
 To build the back end for an e-commerce site by modifying code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
-🎥 [Walkthrough Video](https://drive.google.com/file/d/1tNj8Z892iKxf8KOpgyFmHzPzElYGF-Yo/view?usp=sharing)
+🎥 [Walkthrough Video](https://drive.google.com/file/d/1OyxU_rlL2n0n29x1IA0WTzO4ePUVWJ8t/view?usp=sharing)
 
 ![E-Commerce](Assets/E-Commerce_.png)
 
